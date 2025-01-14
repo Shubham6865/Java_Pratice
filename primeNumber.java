@@ -2,6 +2,11 @@ public class primeNumber{
 
   public static void main (String args[]){
 
-    System.out.print("Hi");
+    Scanner sc = new Scanner(system.in);
+
+    int number = sc.nextInt();
+
+    System.out.println(number);
+    
   }
 }
